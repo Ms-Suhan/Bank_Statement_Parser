@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+.transaction_parser/
+
+# PyInstaller
+build/
+dist/
+*.spec.bak
+
+# Bank statements and generated reports
+data/
+*.csv
+*.xls
+*.xlsx
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
